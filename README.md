@@ -72,3 +72,7 @@ The calculator features a modern design with:
 
 - Inspired by modern calculator designs
 - Uses glass-morphism design trend
+
+## Preview 
+
+- https://haseebjaved4212.github.io/Calculator/
