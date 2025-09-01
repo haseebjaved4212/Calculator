@@ -75,4 +75,4 @@ The calculator features a modern design with:
 
 ## Preview 
 
-- https://haseebjaved4212.github.io/Calculator/
+- [Calculator](https://haseebjaved4212.github.io/Calculator/)
